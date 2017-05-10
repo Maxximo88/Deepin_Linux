@@ -1,5 +1,6 @@
 # Deepin_Linux
 This is my personal folder for Deepin Scripts
+I'm Massimo, and you know..I'm not a Dev, so please help me to improve my work!
 
 I made two different script:
 - "Deepin force local mirror.sh": this is a simple script that allow international users to force Deepin to use a local server;
