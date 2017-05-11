@@ -1,5 +1,5 @@
 #!/bin/bash
-# Ottimizzazione
+# This is a script for Italian users, so expect Italian instructions. It allow to set italian GARR Mirror and install some useful softwares.
 echo 'Ciao!'
 echo 'Con questo script potrai installare una serie di software che ritengo molto utili nella vita quotidiana che ho inserito nella mia guida post installazione sul mio blog personale (CaroBlog.it).'
 echo 'Per prima cosa, ricordati di impostare il Mirror italiano GARR, forzando Deepin ad utilizzarlo.'
