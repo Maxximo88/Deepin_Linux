@@ -190,13 +190,14 @@ EOF'
 			sudo apt-get -y install deborphan
 			sudo apt-get --purge remove `deborphan`
 			echo ''
-			echo 'Elimino ora le librerie orfane relative all'ambiente di sviluppo'
+			echo 'Elimino ora le librerie orfane relative allo sviluppo)'
 			echo ''
 			sudo apt-get --purge remove `deborphan --libdev`
+			echo ''
 			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;    
-        "Termina")
-	    	echo 'Beh, spero che questo script sia apprezzato...Alla prossima'
+	"Termina")
+	    	echo 'Beh, spero che questo script sia apprezzato...Alla prossima!'
 		break
 		;;
         *) echo invalid option;;
