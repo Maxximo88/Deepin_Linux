@@ -168,31 +168,31 @@ EOF'
 			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Pulizia Distro")
-		echo ''
-		echo 'Inizio col verificare i pacchetti difettosi'
-		echo ''
-		sudo apt-get install -f
-		echo ''
-		echo 'Proseguo eliminando le dipendenze inutili'
-		echo ''
-		sudo apt-get --purge autoremove
-		echo ''
-		echo 'Verifico ed elimino i pacchetti obsoleti'
-		echo ''
-		sudo apt-get autoclean
-		echo ''
-		echo 'Rimuovo i pacchetti scaricati oramai inutili'
-		echo ''
-		sudo apt-get clean
-		echo ''
-		echo 'Verifico la presenza di Deborphan, nel caso installandolo, per eliminare le librerie orfane'
-		echo ''
-		sudo apt-get -y install deborphan
-		sudo apt-get --purge remove `deborphan`
-		echo ''
-		echo 'Elimino ora le librerie orfane relative all'ambiente di sviluppo'
-		echo ''
-		sudo apt-get --purge remove `deborphan --libdev`
+			echo ''
+			echo 'Inizio col verificare i pacchetti difettosi'
+			echo ''
+			sudo apt-get install -f
+			echo ''
+			echo 'Proseguo eliminando le dipendenze inutili'
+			echo ''
+			sudo apt-get --purge autoremove
+			echo ''
+			echo 'Verifico ed elimino i pacchetti obsoleti'
+			echo ''
+			sudo apt-get autoclean
+			echo ''
+			echo 'Rimuovo i pacchetti scaricati oramai inutili'
+			echo ''
+			sudo apt-get clean
+			echo ''
+			echo 'Verifico la presenza di Deborphan, nel caso installandolo, per eliminare le librerie orfane'
+			echo ''
+			sudo apt-get -y install deborphan
+			sudo apt-get --purge remove `deborphan`
+			echo ''
+			echo 'Elimino ora le librerie orfane relative all'ambiente di sviluppo'
+			echo ''
+			sudo apt-get --purge remove `deborphan --libdev`
 			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;    
         "Termina")
