@@ -25,7 +25,7 @@ EOF'
 			sudo apt update
 			echo ''
 			echo 'Beh, ora che hai agganciato Deepin al Mirror italiano possiamo proseguire!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 		"Installa tutti i software consigliati")
             sudo apt-get install -y software-properties-common dirmngr ttf-mscorefonts-installer flashplugin-nonfree libdvd-pkg libdvdread4 python3 libreoffice-base libreoffice-style-sifr gimp natron lightworks rawtherapee bluefish inkscape blender openscad gdebi synaptic evince ifuse snapd
@@ -45,116 +45,116 @@ EOF'
 			neofetch
 			echo ''
 			echo 'Beh, carino Neofetch eh? Ad ogni modo, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
         "Ampliamento funzionalità terminale")
             sudo apt-get install -y software-properties-common && sudo apt-get install dirmngr
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Fonts aggiuntivi")
 	    sudo apt-get install -y ttf-mscorefonts-installer
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Flash Player")
 	    sudo apt-get install -y flashplugin-nonfree
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Multimedia")
 	    sudo apt-get install -y libdvd-pkg libdvdread4 python3 && sudo dpkg-reconfigure libdvd-pkg
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Libre Office")
 	    sudo apt-get install -y libreoffice-base && sudo apt-get install libreoffice-style-sifr
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Gimp")
 	    sudo apt-get install -y gimp
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Natron")
 	    sudo apt-get install -y natron
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Lightworks")
 	    sudo apt-get install -y lightworks
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"RawTherapee")
 	    sudo apt-get install -y rawtherapee
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Blue Fish")
 	    sudo apt-get install -y bluefish
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Inkscape")
 	    sudo apt-get install -y inkscape
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Blender")
 	    sudo apt-get install -y blender
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"OpenSCAD")
 	    sudo apt-get install -y openscad
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"gDebi")
 	    sudo apt-get install -y gdebi
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Synaptic")
 	    sudo apt-get install -y synaptic
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Evince")
 	    sudo apt-get install -y evince
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Gestore pacchetti Snap")
 	        sudo apt-get install -y snapd
 	        sudo snap install hello
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"iFuse per supporto Apple iPhone/iPad/iPod")
 	        sudo apt-get install -y ifuse
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Neofetch")
 	        sudo apt-get install curl libcurl3 php5-curl
@@ -165,18 +165,36 @@ EOF'
 			neofetch
 			echo ''
 			echo 'Beh, proseguiamo!'
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
 	    ;;
 	"Pulizia Distro")
-	        sudo apt-get install -f
+		echo ''
+		echo 'Inizio col verificare i pacchetti difettosi'
+		echo ''
+		sudo apt-get install -f
+		echo ''
+		echo 'Proseguo eliminando le dipendenze inutili'
+		echo ''
 		sudo apt-get --purge autoremove
+		echo ''
+		echo 'Verifico ed elimino i pacchetti obsoleti'
+		echo ''
 		sudo apt-get autoclean
+		echo ''
+		echo 'Rimuovo i pacchetti scaricati oramai inutili'
+		echo ''
 		sudo apt-get clean
+		echo ''
+		echo 'Verifico la presenza di Deborphan, nel caso installandolo, per eliminare le librerie orfane'
+		echo ''
 		sudo apt-get -y install deborphan
 		sudo apt-get --purge remove `deborphan`
+		echo ''
+		echo 'Elimino ora le librerie orfane relative all'ambiente di sviluppo'
+		echo ''
 		sudo apt-get --purge remove `deborphan --libdev`
-			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 21.Pulizia Distro; 22.Termina'
-	    ;;	    
+			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Pulizia Distro; 23.Termina'
+	    ;;    
         "Termina")
 	    echo 'Beh, spero che questo script sia apprezzato...Alla prossima!'
 		break
