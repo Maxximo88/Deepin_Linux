@@ -47,6 +47,7 @@ EOF'
 			git clone https://github.com/google/roboto.git
 			pip install --user virtualenv virtualenv roboto-env source roboto-env/bin/activate
 			cd roboto pip install -r requirements.txt
+			cd roboto make
 			echo ''
 			echo 'Beh, carino Neofetch eh? Ad ogni modo, proseguiamo!'
 			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Fonts Google Roboto; 23.Pulizia Distro; 24.Termina'
@@ -176,6 +177,7 @@ EOF'
 		git clone https://github.com/google/roboto.git
 		pip install --user virtualenv virtualenv roboto-env source roboto-env/bin/activate
 		cd roboto pip install -r requirements.txt
+		cd roboto make
 			echo ''
 			echo 'Beh, proseguiamo!'
 			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16.gDebi; 17.Synaptic; 18.Evince; 19.Gestore pacchetti Snap; 20.iFuse per supporto Apple iPhone/iPad/iPod; 21.Neofetch; 22.Fonts Google Roboto; 23.Pulizia Distro; 24.Termina'
