@@ -1,9 +1,24 @@
 #!/bin/bash
-# This is a script for Italian users, so expect Italian instructions. It allow to set italian GARR Mirror and install some useful softwares.
-echo 'Ciao!'
-echo 'Con questo script potrai installare una serie di software che ritengo molto utili nella vita quotidiana che ho inserito nella mia guida post installazione sul mio blog personale (CaroBlog.it).'
-echo 'Per prima cosa, ricordati di impostare il Mirror italiano GARR, forzando Deepin ad utilizzarlo.'
-echo 'Beh, iniziamo..'
+# This file is part of the https://gist.github.com/Maxximo88
+# Copyright (c) 2017 Carofano Massimo Antonio
+# 
+# This program is free software: you can redistribute it and/or modify  
+# it under the terms of the GNU General Public License as published by  
+# the Free Software Foundation, version 3.
+#
+# This program is distributed in the hope that it will be useful, but 
+# WITHOUT ANY WARRANTY; without even the implied warranty of 
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License 
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
+#
+echo 'Ciao, questo script nasce a supporto della Community Italiana di Deepin, per facilitare il processo post installazione.'
+echo 'Tra i software consiglio Gimp (alternativa ad Adobe Photoshop), Natron (alternativa ad Adobe After Effect), Lightworks (alternativa ad Adobe Premiere), RawTherapee (alternativa ad Adobe Lightroom), Blue Fish (alternativa ad Adobe Dreamweaver), Inkscape (alternativa a Corel Draw), Blender (alternativa a 3DsMax), OpenSCAD (alternativa ad Autodesk AutoCAD)'
+echo ''
+echo 'Per prima cosa, ricordati di impostare il Mirror italiano GARR, forzando Deepin ad utilizzarlo ed accelerando vistosamente la velocità di download.'
+echo ''
 PS3='Seleziona il numero corrispondende comando che desideri avviare: '
 options=("Imposta il mirror Italiano GARR" "Installa tutti i software consigliati" "Ampliamento funzionalità terminale" "Fonts aggiuntivi" "Flash Player" "Multimedia" "Libre Office" "Gimp" "Natron" "Lightworks" "RawTherapee" "Blue Fish" "Inkscape" "Blender" "OpenSCAD" "gDebi" "Synaptic" "Evince" "Bleachbit" "Open JDK8" "VLC Media Player" "Gestore pacchetti Snap" "iFuse per supporto Apple iPhone/iPad/iPod" "Neofetch" "Fonts Google Roboto" "Pulizia Distro" "Termina")
 select opt in "${options[@]}"
