@@ -9,7 +9,7 @@ Ho creato due differenti script:
 Una volta scaricati, cliccateci col destro ed in proprietà rendeteli eseguibili come programma, dopodiché eseguiteli dal terminale con un doppio-click.
 -------------------------------------
 
-This is my personal folder for Deepin Scripts
+This is my personal folder for Deepin scripts.
 I'm Massimo, the italian translator of Deepin, and you know..I'm not a Dev, so please help me to improve my work!
 
 I made two different script:
