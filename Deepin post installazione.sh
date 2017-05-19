@@ -43,7 +43,7 @@ EOF'
 			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16. Krita; 17.gDebi; 18.Synaptic; 19.Evince; 20.Bleachbit; 21.Open JDK8; 22.VLC Media Player; 23.Gestore pacchetti Snap; 24.iFuse per supporto Apple iPhone/iPad/iPod; 25.Neofetch; 26.Fonts Google Roboto; 27.Pulizia Distro; 28.Termina'
 	    ;;
 		"Installa tutti i software consigliati")
-            sudo apt-get install -y software-properties-common dirmngr ttf-mscorefonts-installer flashplugin-nonfree libdvd-pkg libdvdread4 python3 libreoffice-base libreoffice-style-sifr gimp natron lightworks rawtherapee bluefish inkscape blender openscad krita gdebi synaptic evince ifuse bleachbit openjdk-8-jre icedtea-8-plugin vlc snapd
+            sudo apt-get install -y software-properties-common dirmngr ttf-mscorefonts-installer flashplugin-nonfree libdvd-pkg libdvdread4 python3 libreoffice-base libreoffice-gtk libreoffice-style-sifr gimp natron lightworks rawtherapee bluefish inkscape blender openscad krita gdebi synaptic evince ifuse bleachbit openjdk-8-jre icedtea-8-plugin vlc snapd
             sudo dpkg-reconfigure libdvd-pkg
 		    	sudo apt-get install -f
 			sudo apt-get --purge autoremove
@@ -92,7 +92,7 @@ EOF'
 			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16. Krita; 17.gDebi; 18.Synaptic; 19.Evince; 20.Bleachbit; 21.Open JDK8; 22.VLC Media Player; 23.Gestore pacchetti Snap; 24.iFuse per supporto Apple iPhone/iPad/iPod; 25.Neofetch; 26.Fonts Google Roboto; 27.Pulizia Distro; 28.Termina'
 	    ;;
 	"Libre Office")
-	    sudo apt-get install -y libreoffice-base && sudo apt-get install libreoffice-style-sifr
+	    sudo apt-get install -y libreoffice-base libreoffice-style-sifr libreoffice-gtk
 			echo ''
 			echo 'Beh, proseguiamo!'
 			echo 'Ti ricordo le opzioni: 1.Imposta il mirror Italiano GARR; 2.Installa tutti i software consigliati; 3.Ampliamento funzionalità terminale; 4.Fonts aggiuntivi; 5.Flash Player; 6.Multimedia; 7.Libre Office; 8.Gimp; 9.Natron; 10.Lightworks; 11.RawTherapee; 12.Blue Fish; 13.Inkscape; 14.Blender; 15.OpenSCAD; 16. Krita; 17.gDebi; 18.Synaptic; 19.Evince; 20.Bleachbit; 21.Open JDK8; 22.VLC Media Player; 23.Gestore pacchetti Snap; 24.iFuse per supporto Apple iPhone/iPad/iPod; 25.Neofetch; 26.Fonts Google Roboto; 27.Pulizia Distro; 28.Termina'
