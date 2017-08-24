@@ -19,7 +19,7 @@ echo -e "\e[1;34m=====================================\e[0m"
 echo -e "\e[1;34mVerifico la tua distribuzione Linux..\e[0m"
 echo -e "\e[1;34m=====================================\e[0m"
 DISTRO=$(lsb_release -i | cut -f 2-)
-if [ $DISTRO == "elementary" ]; then
+if [ $DISTRO == "Deepin" ]; then
 	echo "Ok stai usando $DISTRO, procediamo.."
 	echo ''
 else
