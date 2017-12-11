@@ -48,7 +48,7 @@ do
 # deb [by-hash=force] http://packages.deepin.com/deepin unstable main contrib non-free
 # deb-src http://packages.deepin.com/deepin unstable main contrib non-free
 ##########################################################################################
-deb [by-hash=force] http://ba.mirror.garr.it/mirrors/deepin/ panda main contrib non-free
+deb [by-hash=force] http://deepin.mirror.garr.it/mirrors/deepin/ panda main contrib non-free
 EOF'
 			sudo apt update
 			echo ''
